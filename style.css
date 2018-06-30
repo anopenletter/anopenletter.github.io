@@ -13,13 +13,19 @@ a, a:link, a:visited, a:active, a:hover {
 }
 body {
 	background-color: #f9f9f9;
-	font: 6pt verdana;
+	font: 12pt arial;
 	color: #7f7f7f;
 	text-transform: lowercase;
 }
 a.click {
 	color: #7f7f7f;
 	text-align: center;
+	display: block;
+	height: 481px; 
+	width: 940px; 
+	border: solid; 
+	border-width: 30px 26px 30px 26px; 
+	border-image: url(https://imageshack.com/a/img921/5990/w3nuvZ.png);
 }
 td {
 	background-color: #e7e2e2;
