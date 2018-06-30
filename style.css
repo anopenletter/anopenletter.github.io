@@ -15,24 +15,12 @@ body {
 	background-color: #f9f9f9;
 	font: 12pt arial;
 	color: #7f7f7f;
-	text-transform: lowercase;
 }
 a.click {
 	color: #7f7f7f;
 	text-align: center;
-	display: block;
-	height: 481px; 
-	width: 940px; 
-	border: solid; 
-	border-width: 30px 26px 30px 26px; 
-	border-image: url('https://imageshack.com/a/img924/4089/4RNuH3.png');
+	vertical-align: middle;
 }
 td {
 	background-color: #e7e2e2;
-}
-
-.fullthing {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
 }
